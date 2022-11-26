@@ -1,4 +1,4 @@
-FROM rocker/tidyverse:3.6.3
+FROM rocker/tidyverse:4.2.2
 
 MAINTAINER Ed Sweeney <ed@onextent.com>
 
