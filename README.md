@@ -1,3 +1,8 @@
+<!-- ghmig:moved -->
+> **This repository has moved to [https://git.navicore.tech/navicore/rocker-plumber](https://git.navicore.tech/navicore/rocker-plumber).**
+>
+> The GitHub copy is archived and no longer maintained.
+
 rocker plumber docker image
 ==========
 
